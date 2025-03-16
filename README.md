@@ -2,5 +2,4 @@
 
 create a simple calculator program using javascript, html, and css.
 
-## Resources
-[Bro Code](https://youtu.be/I5kj-YsmWjM?si=RkNIkuFZ1niAc9ih)
+try it [here](https://zaialamm.github.io/simple-calculator/)
